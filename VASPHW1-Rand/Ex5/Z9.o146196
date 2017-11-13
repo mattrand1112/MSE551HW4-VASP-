@@ -1,0 +1,16 @@
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.3.5 31Mar14 (build Feb  5 2015 19:39:53) complex                        
+  
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Pade appr. of Perdew
+ WARNING: stress and forces are not correct
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ WARNING: small aliasing (wrap around) errors must be expected
+ FFT: planning ...
+ WAVECAR not read
+ WARNING: chargedensity file is incomplete
+ ERROR: charge density could not be read from file CHGCAR for ICHARG>10
